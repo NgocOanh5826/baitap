@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class trang73_74
+    internal class bt7_74
     {
         public static void Main(string[] args)
         {
