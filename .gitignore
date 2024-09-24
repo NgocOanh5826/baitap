@@ -1,0 +1,27 @@
+# Thư mục build
+bin/
+obj/
+
+# Các file tạm thời từ Visual Studio
+.vs/
+.vscode/
+
+# Thư mục cài đặt package quản lý bởi NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Các file lock và log
+project.lock.json
+project.fragment.lock.json
+*.log
+
+# Các file cấu hình cục bộ của người dùng
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Các file dành cho môi trường phát triển khác
+*.DS_Store
+*.vscode/*
